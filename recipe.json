@@ -1,0 +1,26 @@
+{
+  "id": "00001",
+  "type": ["savoury", "meat"],
+  "ingredients": [],
+  "tools": [],
+  "steps": {
+    "step1": {
+      "type": "combine",
+      "ingredients": [],
+      "tools": [],
+      "description": "optitional"
+    },
+    "step2": {
+      "type": "sear",
+      "ingredients": [],
+      "tools": [],
+      "description": "optitional"
+    },
+    "step3": {
+      "type": "serve",
+      "ingredients": [],
+      "tools": [],
+      "description": "optitional"
+    }
+  }
+}
